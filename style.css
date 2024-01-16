@@ -1,11 +1,17 @@
 body {
-  /* background-image: url("./Levi-Snake-Game/hatter.jpg"); */
+  background-image: url("./hatter.jpg");
+
   background-color: white;
   justify-content: center;
   text-align: center;
   font-family: "Courier New", Courier, monospace;
 }
 
-.aaa {
-  color: red;
+h1 {
+  color: blue;
+}
+
+.scoreP {
+  font-size: 20px;
+  color: aqua;
 }
